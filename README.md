@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISHAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[image](https://github.com/vishalgadade01/vishalgadade01/assets/145633762/18ec543b-2ba5-40af-ab3e-c6b2aeee9a56)
 
-">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalgadade01" alt="vishalgadade01" /></a> </p>
 
