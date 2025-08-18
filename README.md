@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm VISHAL</h1>
-- 🎓 I have completed my **B.Sc. in Computer Science**  \n
-- 💻 Passionate about coding, problem solving, and exploring new technologies \n 
+- 🎓 I have completed my **B.Sc. in Computer Science** <br>
+- 💻 Passionate about coding, problem solving, and exploring new technologies <br>
 - 🌱 Currently learning [Data Analytics] .
 
-- 📫 How to reach me **gadadev72@gmail.com**
+-  How to reach me **gadadev72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
