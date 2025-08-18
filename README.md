@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm VISHAL</h1>
-
-- 🌱 I’m currently learning **BSC(COMPUTER SCIENCE)**
+- 🎓 I have completed my **B.Sc. in Computer Science**  
+- 💻 Passionate about coding, problem solving, and exploring new technologies  
+- 🌱 Currently learning [Data Analytics] .
 
 - 📫 How to reach me **gadadev72@gmail.com**
 
